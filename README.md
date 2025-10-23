@@ -9,7 +9,7 @@ Each project demonstrates a complete ML workflow: data preprocessing, explorator
 
 | Project | Language | Type | Description |
 |----------|-----------|------|-------------|
-| [BMW Sales EDA & Linear Regression](https://github.com/yourusername/bmw-sales-eda-linear-regression-python) | Python | Regression | Full-cycle ML project predicting BMW worldwide sales (2010–2024) using Linear Regression and data visualization. |
+| [BMW Sales EDA & Linear Regression](https://github.com/Safonovanastya87/bmw-sales-eda-linear-regression-python) | Python | Regression | Full-cycle ML project predicting BMW worldwide sales (2010–2024) using Linear Regression and data visualization. |
 | [Medical Insurance Cost Prediction](https://github.com/yourusername/insurance-cost-eda-linear-regression-r) | R | Regression | Analysis of medical cost dataset, feature selection and regression modeling. |
 | [Customer Churn Classification](https://github.com/yourusername/customer-churn-classification-python) | Python | Classification | Binary classification model predicting customer churn using Random Forest and logistic regression. |
 | [Employee Salary Prediction](https://github.com/yourusername/employee-salary-prediction-r) | R | Regression | Predicting employee salaries based on experience, education, and job level using multiple regression. |
